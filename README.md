@@ -1,5 +1,5 @@
-##Do Things App
-###What is it?
+## Do the Thing app
+### `What is it?`
 I am building this app using a tutorial to help me understand and get my hands dirty with ReactJS.
 
 I will update the repository until I am finished with the app building process.
