@@ -1,3 +1,10 @@
+##Do Things App
+###What is it?
+I am building this app using a tutorial to help me understand and get my hands dirty with ReactJS.
+
+I will update the repository until I am finished with the app building process.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
